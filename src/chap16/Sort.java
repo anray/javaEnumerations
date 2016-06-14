@@ -46,6 +46,7 @@ public class Sort {
         ArrayList<MyIntf> intfl = new ArrayList<MyIntf>();
         //fdgdfgfd
         //dfgdfgdf
+        ArrayList<MyIntf> intfl2 = new ArrayList<MyIntf>();
 
 
 
